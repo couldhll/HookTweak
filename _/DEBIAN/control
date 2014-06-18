@@ -1,0 +1,10 @@
+Package: com.couldhll.hooktweak
+Name: HookTweak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: CouldHll
+Author: CouldHll
+Section: Tweaks
+Version: 0.0.1-29
+Installed-Size: 16
